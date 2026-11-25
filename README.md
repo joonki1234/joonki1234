@@ -4,10 +4,6 @@
 
 ### 🤖 Robotics Enthusiast&nbsp;&nbsp;·&nbsp;&nbsp;💻 Full-Stack Developer&nbsp;&nbsp;·&nbsp;&nbsp;🚀 Team Lead
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=joonki1234&label=Profile%20Views&color=36bcf7&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/joonki1234?label=Follow&style=social" alt="followers" />
-
 </div>
 
 <br/>
@@ -89,7 +85,7 @@
 **원격 조종 소형 전기차 프로젝트 참여 · 팀장**
 `ESP32` `임베디드 제어`
 
-- 소형 전기차의 임베디드 제어 시스템 설계에 참여 (1차 서류 심사 통과)
+- 소형 전기차의 임베디드 제어 시스템 설계에 참여
 
 <br/>
 
