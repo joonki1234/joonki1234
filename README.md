@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Nanum+Myeongjo&weight=700&size=30&duration=3000&pause=1500&color=1A2F2B&background=80DEEA&center=true&vCenter=true&width=420&height=80&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EA%B9%80%EC%A4%80%EA%B8%B0%EC%9E%85%EB%8B%88%EB%8B%A4." alt="안녕하세요. 김준기입니다." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:80DEEA,100:36BCF7&height=120&section=header" />
-
 <a href="https://github.com/joonki1234">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Robotics+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Team+Lead+%26+System+Builder+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -20,7 +18,8 @@
 ## 👨‍💻 About Me
 
 ```text
-🎓  단국대학교 컴퓨터공학과 재학 (3학년 2학기)
+🎓  단국대학교 컴퓨터공학과 재학
+🔬  DGIST SURG Lab 에서 연구 인턴으로 참여 중입니다
 🤖  로보틱스(제어·임베디드) 분야에 관심이 많습니다
 💻  현재는 풀스택 웹 개발(Frontend ~ Backend)을 메인으로 하고 있습니다
 🧑‍🤝‍🧑  다수의 프로젝트에서 팀장을 맡아 시스템 설계·통합을 담당했습니다
@@ -123,16 +122,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joonki1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joonki1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joonki1234&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
-</div>
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=joonki1234&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=80DEEA&icon_color=80DEEA&text_color=c9d1d9&border_radius=12" />
+<img height="168" src="https://github-readme-streak-stats.herokuapp.com/?user=joonki1234&theme=transparent&hide_border=true&background=0D1117&ring=80DEEA&fire=80DEEA&currStreakLabel=80DEEA&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=12" />
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joonki1234&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff" width="95%"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joonki1234&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=80DEEA&text_color=c9d1d9&border_radius=12" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joonki1234&bg_color=0D1117&color=80DEEA&line=80DEEA&point=ffffff&hide_border=true&area=true&area_color=80DEEA" width="95%"/>
+
 </div>
 
 <br/>
@@ -143,6 +144,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joonki1234)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:80DEEA&height=120&section=footer" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Nanum+Myeongjo&weight=700&size=26&duration=3000&pause=1500&color=1A2F2B&background=80DEEA&center=true&vCenter=true&width=320&height=70&lines=%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4." alt="감사합니다." />
 
 </div>
