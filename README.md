@@ -8,8 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=joonki1234&label=Profile%20Views&color=36bcf7&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/joonki1234?label=Follow&style=social" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=joonki1234&label=Profile%20Views&color=36bcf7&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/joonki1234?label=Follow&style=social" alt="followers" />
 
 </div>
 
@@ -32,34 +31,23 @@
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
 **Robotics · Embedded · Game Dev**
 
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Photon_Engine-5A5A5A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Photon_Engine-5A5A5A?style=for-the-badge" />
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 
 <br/>
 
@@ -119,25 +107,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=joonki1234&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=80DEEA&icon_color=80DEEA&text_color=c9d1d9&border_radius=12" />
-<img height="168" src="https://github-readme-streak-stats.herokuapp.com/?user=joonki1234&theme=transparent&hide_border=true&background=0D1117&ring=80DEEA&fire=80DEEA&currStreakLabel=80DEEA&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=12" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joonki1234&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=80DEEA&text_color=c9d1d9&border_radius=12" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joonki1234&bg_color=0D1117&color=80DEEA&line=80DEEA&point=ffffff&hide_border=true&area=true&area_color=80DEEA" width="95%"/>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 ### 🤝 Let's Connect
@@ -146,6 +115,6 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Nanum+Myeongjo&weight=700&size=26&duration=3000&pause=1500&color=1A2F2B&background=80DEEA&center=true&vCenter=true&width=320&height=70&lines=%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4." alt="감사합니다." />
+<img src="https://readme-typing-svg.demolab.com?font=Nanum+Myeongjo&weight=700&size=30&duration=3000&pause=1500&color=1A2F2B&background=80DEEA&center=true&vCenter=true&width=320&height=80&lines=%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4." alt="감사합니다." />
 
 </div>
